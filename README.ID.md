@@ -16,7 +16,6 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 # **PENTING**
 1. Membutuhkan Android 10 ke atas.
 2. ROM GSI atau ROM Kustom.
-3. Compiler ART yang Didukung
 
 # **CARA MEMASANG**
 - Unduh Rom.zip (periksa rilis paketnya)
@@ -25,8 +24,9 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 - Masuk ke mode pemulihan seperti TWRP dan lainnya. 
 - Jika Anda sudah berada di Recovery, lanjutkan ke tahap penghapusan data.
 - cukup ketik wipe dan format tipe data "yes" wipe ✅dalvik-cache ✅cache jika datanya sama dengan penyimpanan internal, itu juga tidak masalahq
-- Instal, cari penyimpanan yang telah diinstal. Instal Rom.zip. Setelah terinstal, muncul pesan kesalahan berwarna merah seperti ini: odm, product, system, vendor, it has worked.
-- Jika Anda ingin menginstal Gapps, reboot ke recovery lagi lalu instal terlebih dahulu. RW ada di Advances. Setelah terinstal, instal saja Gapps.zip.
+- Instal, cari penyimpanan yang telah diinstal. Instal Rom.zip. Setelah terinstal, muncul pesan kesalahan berwarna merah seperti ini: odm, product, system, vendor, itu telah berhasil pasang Rom nya.
+- kalo format data boleh kalo kalian mau menambahkan penyimpanan di internal ke kartu SD iya kalian harus pasang decrypt atau biasanya disable encrypted ada di advanced di TWRP.
+- Tapi maaf ya kalo di Android 14 atau lebih baru kalo kalian pasang decrypt itu akan terjadi mentok logo di Samsung galaxy terus kalian harus balik lagi ke twrp dan pasang lagi encrypt atau biasanya enable encrypted dan done reboot ke system lagi.
 
 
 # **INFORMASI LEBIH LANJUT**
