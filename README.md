@@ -26,6 +26,7 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 - If you are already in Recovery, continue to the wipe stage.
 - just type wipe and format data type "yes" wipe ✅dalvik-cache ✅cache if the data is the same as internal storage, it's also fine
 - Install, search for the storage that has been installed. Install Rom.zip. After it has been installed, a red error appears such as odm, product, system, vendor, it has worked.
+- If you want to add internal storage to the SD card, you can format the data. Yes, you have to install decrypt or usually disable encrypted in advanced in TWRP.
 
 
   # **MORE INFORMATIONS**
