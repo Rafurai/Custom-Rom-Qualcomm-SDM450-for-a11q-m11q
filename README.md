@@ -16,7 +16,7 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 # **IMPORTANT**
 1. recquires Android 10 and up.
 2. Running On Stock ROM or Custom ROM.
-3. Supported ART Compiler
+
 
 # **HOW TO INSTALL**
 - download Rom.zip (check on package release)
@@ -26,7 +26,7 @@ armeabi-v7a (32-bit) Or and arm64-v8a (64-bit)
 - If you are already in Recovery, continue to the wipe stage.
 - just type wipe and format data type "yes" wipe ✅dalvik-cache ✅cache if the data is the same as internal storage, it's also fine
 - Install, search for the storage that has been installed. Install Rom.zip. After it has been installed, a red error appears such as odm, product, system, vendor, it has worked.
-- If you like to install Gapps, reboot to recovery again and then install it first. RW is in Advends. After it is installed, just install Gapps.zip
+
 
   # **MORE INFORMATIONS**
 **Telegram**
